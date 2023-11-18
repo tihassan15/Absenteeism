@@ -21,6 +21,4 @@ WHERE social_smoker = 0
 --(5 days a week x 8 hours a day) = 40 hours a week; (40 hours a week x 52 weeks in a year) = 2,080 hours a year--
 --(2,080 hours a year x 686 nonsmokers) = 1,426,880 total hours worked by nonsmokers--
 --($983,221 budget / 1,426,880 total hours worked by nonsmokers) = $0.69 increase per hour--
---(2,080 hours a year x $0.69 increase per hour = $1,435.20 a year as additional pay for each nonsmoker employee--
-
-
+--(2,080 hours a year x $0.69 increase per hour) = $1,435.20 a year as additional pay for each nonsmoker employee--
